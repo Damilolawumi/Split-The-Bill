@@ -1,0 +1,163 @@
+https://www.notion.so/Web-UI-developer-620c043a0a484da093d7fda8fcba10b0 
+
+Clone this document and answer the prompts to the best of your team's ability 
+
+# Proposal
+
+---
+
+- What problem does your app solve?
+
+My app would solve the problem of always asking your friends for money after a meal cause it might be a bit awkward.
+ 
+
+- Be as specific as possible; how does your app solve the problem?
+
+The app would send notifications to your cntacts that you shared a meal wiith after a meal
+
+- What is the mission statement?
+
+Split the bill not the friendship.
+
+# Features
+
+---
+
+- What features are required for your minimum viable product?
+
+- What features may you wish to put in a future release?
+
+- What do the top 3 similar apps do for their users?
+
+# Frameworks - Libraries
+
+---
+
+- What 3rd party frameworks/libraries are you considering using?
+
+- Do APIs require you to contact its maintainer to gain access?
+
+- Are you required to pay to use the API?
+
+- Have you considered using Apple Frameworks? (MapKit, Healthkit, ARKit?)
+
+# For Data Scientists
+
+---
+
+- Describe the Established data source with at least rough data able to be provided on day 1.
+
+- You can gather information about the data set you’ll be working with from the project description. Be sure to collaborate with your PM, and your Backend Architect to chat about the resources you have.
+
+- Write a description for what the DS problem is (what uncertainty/prediction are we trying to do here? Sentiment analysis? Why is this a useful solution to a problem?)
+
+- A target (e.g. JSON format or such) for output that DS students can deliver to web/other students for them to ingest and use in the app
+
+# Target Audience
+
+---
+
+- Who is your target audience? Be specific.
+
+- What feedback have you gotten from potential users?
+
+- Have you validated the problem and your solution with your target audience? How?
+
+Research
+
+---
+
+- Research thoroughly before writing a single line of code. Solidify the features of your app conceptually before implementation. Spend the weekend researching so you can hit the ground running on Monday.
+
+# Prototype Key Feature(s)
+
+---
+
+- This is the “bread and butter” of the app, this is what makes your app yours. Calculate how long it takes to implement these features and triple the time estimated. That way you’ll have plenty of time to finish. It is preferred to drop features and spend more time working on your MVP features if needed.
+
+Add groups and friends
+
+Split expenses, record debts
+
+Equal or unequal splits
+
+Split by % or shares
+
+Calculate total balances
+
+Suggested repayments
+
+Simplify debts
+
+Recurring expenses
+
+Pay Friends back
+
+PAGE 1
+
+Log In
+ 
+Sign Up
+note
+When you dine out with other people, do you pay for your own food and drink, or divide the bill so that everyone makes an equal contribution? Splitting a bill can be a source of conflict among friends, especially if one person is trying to avoid contributing at all. It can be difficult to split bills fairly, without antagonizing anyone in the process.
+
+Money can be a touchy subject, and people don’t always react well when prompted for their contribution towards a bill. Now, more than ever, paying too much when dining out can be a financial burden. Although the amounts spent at restaurants may not seem like much, the meals can quickly add up to a significant amount of money. Over the course of a year, you can easily spend hundreds or thousands of dollars at restaurants, especially when you’re paying.
+
+Ideas on How to Split the Bill with Friends
+After you’ve had a conversation with your friends about paying for the meal, determine the best way to split the bill. Each of these methods has its advantages and disadvantages, so use the approach that is most appropriate for your situation. Here are several ideas for splitting the bill with your friends:
+
+1. Ask for Separate Checks
+Asking for separate checks is the most equitable way to split the tab because each person pays for their share of the bill. For example, if someone orders a salad when everyone else orders steak, the salad eater will not be paying for a steak-sized portion of the bill. This method also works well when some people plan to pay with cash, and some people plan to pay with credit cards. The downside to this method is that it is more work for the server, and waiting for separate checks can take some time.
+
+2. Take Turns Paying
+Taking turns paying works well for people who frequently dine out together and generally eat at restaurants with similar prices. For example, my husband and I frequent a Mexican restaurant close to our home with a neighboring couple. Since we know we will be going to the same restaurant with the same couple again soon, we take turns paying the entire bill in order to keep the bill-paying process quick and simple.
+
+Conversely, this is also a wonderful way to stay in touch with friends that you don’t see very often. Pick up the tab the first time you meet for lunch or dinner, and when your friends protest, tell them it’s your “secret ploy” to get them to go out again because they “owe” you a meal. I have done this many times and my friends are always charmed by the ploy, and the favor has always been returned.
+
+3. One Person Pays and Is Repaid
+If you trust your friends, you could volunteer to pay the bill, and have your friends pay you back later. You could also take turns being the person who pays, and is repaid later. This also keeps the bill paying process quick and simple, but it does take trust, and it also requires the buyer to put out some significant cash. This would not be the ideal approach for anyone who practices the envelope budgeting system, due to the cash required.
+
+4. Split the Bill Evenly
+If you and your friends do not feel it necessary to calculate how much each person owes towards the bill, a simple solution is to split the bill evenly. While some people have no problems paying a little more or a little less than they owe, others will be upset about paying for someone else’s steak dinner. If you decide to split the bill evenly, make sure that each person ordered items approximately equivalent in price, and that no one has a problem with this approach to splitting the bill.
+
+5. Use a Bill Splitting App
+If you frequently go out with a group of friends, or order take-out with your roommates, check out a bill-splitting application like Wesplit.it. The website will track your bills and the total amount owed for everyone in your party. The easy-to-use app reminds your friends that they owe you money, taking the pressure off of you and eliminating the need for an awkward conversation.
+
+6. Split the Tip Evenly
+Sometimes it is not the actual bill that is difficult to split, but the tax and tip that can be frustrating to determine as you are trying to pay the bill. The easiest solution is to split tax and tip evenly. While some people do mind splitting the entire bill, most people do not mind splitting the tip evenly, since it is only a small percentage of the total bill.
+
+7. Use a Tip App
+Use your smart phone to do some calculations. If you decide that you want to split a tip equally, there are tip applications that do this calculation for you. You can also use the calculator on your phone to determine the amount of tip that each person owes.
+
+8. Throw in Dollar Bills for the Tip
+Collect a tip for the server by asking everyone who has dollar bills to throw them into the tip pile. This works well because most people don’t mind putting in a dollar or two into the tip pot. Most likely, next time you dine out with this group of people, it will be someone else who has the dollar bills. Over the course of a year, it’s likely that everyone will contribute tips equally using this method of tipping.
+
+9. Only Pay for Exactly What You Ordered
+If you’re out with friends, it shouldn’t cause a conflict to just pay for what you ordered. You should have a pretty good idea of what your total is when the bill arrives, and the total can be quickly verified by scanning the bill. However, this approach can be problematic if the table shares a bottle a wine or a dessert. If that happens, offer to pay for what you ordered, and for a portion of the item shared with your friend
+
+What If Someone Doesn’t Pay?
+Sometimes, there is one person in the group who says that they just do not have the money to pay for their portion of the bill. Unfortunately, the burden of that person’s meal is now on his or her friends, and it is never a good situation when a friend won’t pay you back. However, there are a few ways to deal with this situation:
+
+1. Let it Slide
+If someone doesn’t pay his or her portion of the bill once, just let it slide. Consider it a gift, with the expectation that it will not become an ongoing occurrence. But in the future, discuss splitting the bill with this friend before you leave for the restaurant.
+
+2. Have That Person Pay the Tip
+If someone can’t afford to pay for their entire meal, perhaps they would be willing to pay for the tip. Depending on the number of people who went out to eat, the tip may be significantly less than paying for an entire meal.
+
+3. Loan the Money
+Offer to pay for the person, but make it clear that you expect to be paid back the next time you see them. A straightforward statement like, “Sure, no problem. I can lend you the money. Just pay me back as soon as you get a chance,” works well. This way, the person knows that he or she is expected to repay the loan.
+
+4. Subtly Remind That Person Next Time You Go Out
+If you paid for someone’s tab on a previous occasion and haven’t been repaid, a subtle-but-direct strategy during the next meal is to say something like, “You have me covered this time, right?”
+
+5. Don’t Go Out with That Person
+If someone gets into the habit of talking their way out of paying for their food, stop going out with that friend. Eventually, he or she will get the message.
+
+6. Discuss the Situation with Your Friend
+Talking about money can be awkward, even when you’re having the conversation with someone you know very well. If this person is really a friend, you should be able to have an open and honest discourse about his or her behavior. Your friend might be experiencing serious financial troubles, or he or she might just be a little forgetful. Opening up a conversation about the topic will get everything out in the open so you can decide how to move forward with this friend when it comes to paying the bill.
+
+Final Word
+Make sure you are splitting the bill in a way that makes you feel comfortable. Have a plan established and agreed upon before you go out with friends. Be in control of the situation by bringing up the topic of splitting the bill in a tactful, but direct way. This shouldn’t be a contentious or uncomfortable topic, if the people are friends.
+
+How do you normally split the bill with friends?
+
