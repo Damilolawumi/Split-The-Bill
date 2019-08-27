@@ -1,50 +1,18 @@
-body {
+.title{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly; 
+}
+nav a {
+    text-decoration: none;
+    color: black;
+}
+.first-img {
     background: url(Landing-page.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-header nav {
-    display: flex;
-    justify-content: space-between;
-    background: white;
-    padding: 1em;
-    border-radius: 6px;
-}
-
-nav a {
-    text-decoration: none;
-    color: #111123;
-}
-
-.welcome {
-    text-transform: uppercase;
-    font-size: 16px;
-    color: #999;
-    font-weight: bold;
-    line-height: 20px;
-}
-
-label {
-    display: block;
-    margin-bottom: 5px;
-}
-
-input {
-    font-size: 20px;
-    height: 24px;
-    line-height: 24px;
-    width: 95%;
-    margin-top: 4px;
-    margin-bottom: 15px;
-}
-.btn-color{
-    width: 90px;
-     margin-top: 10px; 
-     margin-bottom:10px; 
-     font-size: 18px;
-}
-.sign-in{
-    width: 50%;
-    margin: auto;
-}
+    width: 100%;
+    }
