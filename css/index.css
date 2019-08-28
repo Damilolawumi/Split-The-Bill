@@ -10,9 +10,23 @@ body {
     padding-right: 50px;
 }
 
+#sign-up-button {
+    border: 1px solid #555;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: #666;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .title {
+    margin: 0;
     display: flex;
     justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
     font-size: 1.875em;
     font-family: 'Playfair Display', sans-serif
 }
@@ -30,7 +44,7 @@ nav a {
 }
 
 .big-image {
-    background-image: url(Landing-page.jpg);
+    background-image: url(../images/landing-page.jpg);
     height: 800px;
     background-size: cover;
     display: flex;
@@ -153,12 +167,10 @@ footer {
 }
 
 @media (max-width: 500px) {
-    body{
+    body {
         background-color: #f4f9fb;
     }
-    
-    
-    }
+
     .header {
         display: block;
     }
@@ -176,5 +188,9 @@ footer {
         font-size: 0.8em;
         border-top: 1px dashed black;
         padding: 10px;
+    }
+
+    .big-image {
+        margin-top: 15px;
     }
 }
