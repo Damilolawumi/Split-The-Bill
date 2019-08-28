@@ -99,6 +99,7 @@ Log In
  
 Sign Up
 note
+
 When you dine out with other people, do you pay for your own food and drink, or divide the bill so that everyone makes an equal contribution? Splitting a bill can be a source of conflict among friends, especially if one person is trying to avoid contributing at all. It can be difficult to split bills fairly, without antagonizing anyone in the process.
 
 Money can be a touchy subject, and people don’t always react well when prompted for their contribution towards a bill. Now, more than ever, paying too much when dining out can be a financial burden. Although the amounts spent at restaurants may not seem like much, the meals can quickly add up to a significant amount of money. Over the course of a year, you can easily spend hundreds or thousands of dollars at restaurants, especially when you’re paying.
@@ -160,4 +161,46 @@ Final Word
 Make sure you are splitting the bill in a way that makes you feel comfortable. Have a plan established and agreed upon before you go out with friends. Be in control of the situation by bringing up the topic of splitting the bill in a tactful, but direct way. This shouldn’t be a contentious or uncomfortable topic, if the people are friends.
 
 How do you normally split the bill with friends?
+
+
+
+
+
+URGENT PASTE IN ABOUT US
+
+
+        <h3 class="heading-style">What If Someone Doesn’t Pay?</h3>
+        <p>Sometimes, there is one person in the group who says that they just do not have the money to pay for
+            their portion of the bill.
+            Unfortunately, the burden of that person’s meal is now on his or her friends,and it is never a good
+            situation when a friend won’t pay you back.
+            However, there are a few ways to deal with this situation:</p>
+        <div class="div-container">
+            <div class="div-content">
+                <h3 class="heading-style">1. Let it Slide </h3>
+                <p> If someone doesn’t pay his or her portion of the bill once, just let it slide. Consider it a gift,
+                    with
+                    the expectation that it will not become an ongoing occurrence. But in the future, discuss splitting
+                    the
+                    bill with this friend before you leave for the restaurant. </p>
+
+            </div>
+            <div class="div-content">
+                <h3 class="heading-style"> 2. Don’t Go Out with That Person </h3>
+                <p> If someone gets into the habit of talking their way out of paying for their food, stop going out
+                    with
+                    that friend. Eventually, he or she will get the message.</p>
+            </div>
+
+            <div class="div-content">
+                <h3 class="heading-style"> 3. Loan the Money </h3>
+                <p> Offer to pay for the person, but make it clear that you expect to be paid back the next time you see
+                    them. A straightforward statement like, “Sure, no problem. I can lend you the money. Just pay me
+                    back as
+                    soon as you get a chance,” works well. This way, the person knows that he or she is expected to
+                    repay
+                    the loan.</p>
+            </div>
+        </div>
+
 

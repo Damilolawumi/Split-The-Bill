@@ -1,5 +1,4 @@
 body {
-    /* background-color: lightgrey; */
     font-family: 'Athiti', sans-serif;
 }
 
@@ -29,9 +28,10 @@ nav a {
     font-size: 1.4em;
     margin-left: 15px
 }
-.big-image{
+
+.big-image {
     background-image: url(Landing-page.jpg);
-    height:800px;
+    height: 800px;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -39,16 +39,16 @@ nav a {
     padding-left: 50px;
 }
 
-.big-image h1{
+.big-image h1 {
     color: white;
     background: black;
     max-width: 410px;
     font-size: 56px;
     padding-left: 1px;
-    
+
 }
 
-.big-image p{
+.big-image p {
     font-size: 1.5em;
     color: white;
     background: #2c121b;
@@ -56,7 +56,7 @@ nav a {
 
 }
 
-.big-image button{
+.big-image button {
     width: 200px;
     height: 50px;
     border: none;
@@ -67,7 +67,8 @@ nav a {
     transition: background-color 0.5s, color 0.5s;
 
 }
-.big-image button:hover{
+
+.big-image button:hover {
     background-color: #333;
     color: white;
 }
@@ -100,12 +101,14 @@ nav a {
     font-family: tahoma;
     margin: 1.25em;
 }
-.content{
+
+.content {
     display: flex;
     padding: 0.6875em;
     font-size: 18px;
 }
-.content p{
+
+.content p {
     margin: 20px;
 }
 
@@ -121,49 +124,6 @@ footer {
     font-style: oblique;
 }
 
-@media (max-width: 500px) {
-    .container {
-        background-color: palegoldenrod;
-    }
-
-    .title {
-        font-size: 1.1em;
-    }
-
-    nav a {
-        font-size: 1.1em;
-        color: blue;
-    }
-
-    .first-img {
-        width: 90%;
-        margin-left: 1.25em;
-    }
-
-    .payment {
-        display: none;
-    }
-
-    .content {
-        display: block;
-    }
-
-    h1 {
-        font-size: 0.85em;
-    }
-
-    .main-content {
-        font-size: 0.85em;
-        width: 100%;
-    }
-
-    footer {
-        font-size: 0.79em;
-        font-style: italic;
-    }
-
-}
-
 @media (max-width: 800px) {
     h1 {
         font-size: 0.9em;
@@ -171,6 +131,7 @@ footer {
 
     nav a {
         font-size: 1.25em;
+        color: #4fa9f3;
     }
 
     .main-content {
@@ -180,7 +141,8 @@ footer {
     }
 
     footer {
-        font-size: 1.25em;
+        font-size: 1em;
+        background-color: #e6dfdf;
     }
 
     .payment {
@@ -188,4 +150,31 @@ footer {
         margin-top: 0.3125em;
     }
 
+}
+
+@media (max-width: 500px) {
+    body{
+        background-color: #f4f9fb;
+    }
+    
+    
+    }
+    .header {
+        display: block;
+    }
+
+    nav a {
+        color: #7d0c0c;
+    }
+
+    .content {
+        display: block;
+        width: 100%;
+    }
+
+    footer {
+        font-size: 0.8em;
+        border-top: 1px dashed black;
+        padding: 10px;
+    }
 }
