@@ -1,0 +1,196 @@
+body {
+    font-family: 'Athiti', sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#sign-up-button {
+    border: 1px solid #555;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: #666;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.title {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.875em;
+    font-family: 'Playfair Display', sans-serif
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.4em;
+    margin-left: 15px
+}
+
+.big-image {
+    background-image: url(../images/landing-page.jpg);
+    height: 800px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 50px;
+}
+
+.big-image h1 {
+    color: white;
+    background: black;
+    max-width: 410px;
+    font-size: 56px;
+    padding-left: 1px;
+
+}
+
+.big-image p {
+    font-size: 1.5em;
+    color: white;
+    background: #2c121b;
+    max-width: 410px;
+
+}
+
+.big-image button {
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: white;
+    font-size: 1.3em;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    transition: background-color 0.5s, color 0.5s;
+
+}
+
+.big-image button:hover {
+    background-color: #333;
+    color: white;
+}
+
+
+.h1 {
+    font-size: 1em;
+    font-family: cursive;
+    margin-top: -14px;
+    text-align: center;
+}
+
+.first-img {
+    width: 90%;
+    margin-left: 3.125em;
+}
+
+.payment {
+    width: 100%;
+    margin-top: 5em;
+}
+
+.content-section {
+    display: flex;
+}
+
+.main-content {
+    width: 100%;
+    font-size: 1.5em;
+    font-family: tahoma;
+    margin: 1.25em;
+}
+
+.content {
+    display: flex;
+    padding: 0.6875em;
+    font-size: 18px;
+}
+
+.content p {
+    margin: 20px;
+}
+
+.payment {
+    width: 90%;
+    margin-top: 0.90em;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    font-size: 1.4em;
+    font-style: oblique;
+}
+
+@media (max-width: 800px) {
+    h1 {
+        font-size: 0.9em;
+    }
+
+    nav a {
+        font-size: 1.25em;
+        color: #4fa9f3;
+    }
+
+    .main-content {
+
+        width: 100%;
+        font-size: 1.25em;
+    }
+
+    footer {
+        font-size: 1em;
+        background-color: #e6dfdf;
+    }
+
+    .payment {
+        width: 90%;
+        margin-top: 0.3125em;
+    }
+
+}
+
+@media (max-width: 500px) {
+    body {
+        background-color: #f4f9fb;
+    }
+
+    .header {
+        display: block;
+    }
+
+    nav a {
+        color: #7d0c0c;
+    }
+
+    .content {
+        display: block;
+        width: 100%;
+    }
+
+    footer {
+        font-size: 0.8em;
+        border-top: 1px dashed black;
+        padding: 10px;
+    }
+
+    .big-image {
+        margin-top: 15px;
+    }
+}
